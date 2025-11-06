@@ -1,0 +1,41 @@
+Q-1 Write a Scenario of Whatsapp payment
+A-1 Whatsapp scenario are below here.....
+	
+1. check whatsapp payment is running properly when you payment.
+2. check in other device payment process is successfully done or not.
+3. check barcode scanner is running properly or not.
+4. check the payment mode in another brower it is working or not.
+5. check connectivity on internet connection.
+6. verify the payment process is done or not with opposite person
+7. check the whatsapp payment mode is agree with using onther application supported or not.
+8. if whatsapp pament is not working then find how many person they are related with this type of issues.
+9. in another browser whatsweb payment process is running or having an some issues check it.
+10. check it whatsapp payment process is running with wifi connection or not sometimes its happend.
+
+
+Q-2 Write a Scenario of whatsapp Group (generate group)
+A-2 Whatsapp grouop scenario are below here.....
+
+1. check whatsapp group security.
+2. verify the group generating process is regularly working or not
+3. when generating group check internet connection.
+4. check how many person you can add when group generating.
+5. select the persons whi can drop a massage in group.
+6. verify the persons who have rights to delete message if which is insentitive for other member.
+7. verify the member of admin who are selectative by group owner.
+8. verify all admin member can drop message in group or not.
+9. who can change group photo verify it.
+10. check in onther device whatsapp group can properly woking or not.
+11. check another device with same number you can create group or not.
+12. find out if you cant create group thats type error how many people can related.
+13. check internet connectivity sometimes it could not generating group due to no network connection.
+14. check pin message can see all the group member on not.
+15. check all member who can add by you and all are member you know them because of group security.
+16. verify if group created the rules  of groups.
+17. check in pc or laptop you can create a group or not.
+18. verify the group name who can change or who can't.
+19. varify the sending message avaibility in group for 1 day, 1 week.
+20. check we can add new member in group or not
+21. check admin can remove person is removed on time or not.
+22. verify new futures can showing in group or not.     
+
